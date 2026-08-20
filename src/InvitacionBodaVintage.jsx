@@ -129,7 +129,7 @@ const VintageWeddingInvite = () => {
             <span className="h-[1px] w-12 bg-[#8c7b64]"></span>
           </div>
           <p className="font-playfair text-2xl md:text-4xl italic text-[#5e503f] mb-8">
-            Las cosas mas grandes son las que no estan así
+            Estamos emocionados para nuestro gran día
           </p>
 
           {/* Cuenta Regresiva */}
