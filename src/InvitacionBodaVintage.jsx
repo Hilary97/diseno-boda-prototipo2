@@ -278,7 +278,7 @@ const VintageWeddingInvite = () => {
                 "Confirmo mi asistencia a la boda ♥️",
               );
               window.open(
-                `https://api.whatsapp.com/send?phone=3329666124&text=${msg}`,
+                `https://api.whatsapp.com/send?phone=5555555555&text=${msg}`,
                 "_blank",
               );
             }}
